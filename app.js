@@ -1,0 +1,1 @@
+document.body.innerHTML = '<marqee>cows</marquee';
